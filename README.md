@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about Fullstack Web Development and
 
 ## About Me
 
-- 🌱 I’m currently learning React and Node.
+- 🌱 I’m currently learning NextJS
 - ⚡ Fun fact: I'm a Coffee Aficionado. I can't start my day without a cup of coffee. 
 
 ## Projects
